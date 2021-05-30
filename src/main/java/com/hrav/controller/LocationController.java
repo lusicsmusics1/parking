@@ -5,7 +5,6 @@ import com.hrav.model.Location;
 import com.hrav.payload.ApiResponse;
 import com.hrav.repository.LocationRepository;
 import io.swagger.annotations.Api;
-import io.swagger.annotations.ApiImplicitParam;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
